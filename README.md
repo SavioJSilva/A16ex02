@@ -10,3 +10,4 @@ b) Os últimos 4 colocados.
 c) Times em ordem alfabética.
 
 d) Em que posição está o time da Chapecoense.
+No momento do Exercicio, a Chapecoense não estava na Tabela do Brasileirão serie A, e foi substituido pela equipe do Bahia.
